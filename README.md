@@ -1,7 +1,7 @@
-# Data Portfolio
+# Data Portfolio 💻
 
 **Doris Wang**  
-Data-driven Product & UX Analyst  
+Data-driven Product & UX Analyst🪐
 
 🔗 [LinkedIn](https://www.linkedin.com/in/hidoriswang) · 📧 tianqiwangdw@gmail.com
 
@@ -9,7 +9,7 @@ Data-driven Product & UX Analyst
 
 ## Featured Projects
 
-### California Traffic Collision Analysis (2020–2025)
+### California Traffic Collision Analysis (2020–2025)📊
 **Tools:** Python (Pandas) · Data Analysis  
 
 - Analyzed **2.46M+** traffic collision records to uncover regional and temporal patterns in crash severity  
@@ -20,7 +20,7 @@ Data-driven Product & UX Analyst
 
 ---
 
-### TikTok vs YouTube Performance Analysis (2025)
+### TikTok vs YouTube Performance Analysis (2025)📊
 **Tools:** Tableau · Data Analysis  
 
 - Analyzed a global short-form video dataset across **100+ countries** and **58 variables**  
