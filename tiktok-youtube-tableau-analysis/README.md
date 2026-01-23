@@ -52,6 +52,8 @@ Using global engagement, growth, and content data, the analysis explores how pla
 - Exploratory Data Analysis
 
 ## Deliverables✨
-- Interactive Tableau dashboards
-- Dashboard screenshots or PDF exports
-- Presentation summarizing insights and recommendations
+
+- Tableau workbook (.twbx) for interactive analysis
+- PDF summary of key findings
+- Storyboard connecting insights into a cohesive narrative
+
