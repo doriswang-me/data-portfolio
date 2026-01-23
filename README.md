@@ -20,11 +20,11 @@ I'm a Data-driven Product & UX Analyst🪐
 
 ---
 
-### TikTok vs YouTube Performance Analysis (2025)📊
+### TikTok vs YouTube Performance Analysis (2025)
 **Tools:** Tableau · Data Analysis  
 
-- Analyzed a global short-form video dataset across **100+ countries** and **58 variables**  
-- Identified TikTok’s **higher engagement** and **faster growth** through temporal, geographic, and category analysis  
-- Conducted **what-if growth analysis** to assess how audience growth impacts platform performance  
+- Compared engagement, growth, and content performance across two major short-form video platforms  
+- Conducted geographic, temporal, and category-level analysis using global data  
+- Built what-if growth simulations to assess performance sensitivity to audience changes  
 
-➡️ **View project:** *(coming soon)*
+➡️ **View project:** [tiktok-youtube-tableau-analysis](./tiktok-youtube-tableau-analysis)
