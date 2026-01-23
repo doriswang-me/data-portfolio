@@ -1,35 +1,57 @@
 # TikTok vs YouTube Performance Analysis (2025)
 
 ## Overview
-This project analyzes and compares the performance of TikTok and YouTube using a global short-form video dataset.  
-The analysis focuses on engagement, growth trends, and geographic differences to understand platform dynamics in 2025.
+This project analyzes and compares the performance of **TikTok and YouTube**, two of the most influential short-form video platforms in 2025.  
+Using global engagement, growth, and content data, the analysis explores how platform performance differs across **geography, time, content categories, and audience behavior**, and evaluates how changes in growth assumptions may impact future performance.
 
-## Key Questions
-- How do TikTok and YouTube differ in engagement and growth performance?
-- How does performance vary across regions and content categories?
-- How would changes in audience growth impact platform outcomes?
+## Business & Product Questions
+- How does engagement and content performance differ between TikTok and YouTube?
+- Which regions and countries show the strongest video activity and audience engagement?
+- How do video production trends evolve over time on each platform?
+- Which content categories drive the highest engagement?
+- How would changes in audience growth affect overall platform performance?
 
 ## Data
-- Global short-form video dataset
-- Coverage across 100+ countries
-- 58 variables including engagement, growth, and category metrics
+- **Dataset:** *YouTube & TikTok Trends 2025* (Kaggle, public domain)
+- **Coverage:** 100+ countries
+- **Variables:** 58 metrics including engagement rate, views, likes, shares, comments, content categories, platform, and time
+- **Sub-datasets used:**
+  - Country platform summary
+  - Monthly trends (2025)
+  - Weekly engagement trends
+  - Creator and category-level metrics
+
+> Note: Data is derived from publicly available sources and may not reflect internal platform analytics.
 
 ## Methodology
-- Data exploration and preparation
-- Tableau-based visual analysis
-- Temporal, geographic, and category-level comparison
-- What-if growth analysis to simulate changes in audience growth
+- Geographic analysis of global video distribution and engagement rates
+- Temporal analysis of monthly video production trends (Jan–Aug 2025)
+- Weekly engagement trend analysis by platform and content category
+- **What-if growth analysis** to simulate changes in audience growth rates
+- Comparative analysis of like, share, and comment rates across platforms and categories
+- Storyboard creation to connect insights into a cohesive narrative
 
 ## Key Insights
-- TikTok demonstrates higher engagement compared to YouTube in 2025
-- TikTok shows faster growth across most regions
-- Growth assumptions significantly influence platform performance metrics
+- **TikTok consistently outperforms YouTube in audience engagement** across regions and content categories
+- TikTok shows **faster growth periods**, while YouTube demonstrates more **stable, steady growth**
+- High-engagement regions include the United States, Kenya, Japan, China, and Mexico
+- Music and gaming emerge as top-performing content categories on both platforms
+- Small changes in audience growth rates can result in **large shifts in total views**, highlighting sensitivity to growth dynamics
+
+## Visualizations
+- Global video distribution & engagement heatmap
+- Monthly video production trends (TikTok vs YouTube)
+- Weekly engagement rate trends by content category
+- What-if analysis simulating audience growth scenarios
+- Category-level comparison of likes, shares, and comments
+- Storyboard integrating all insights into a product-level narrative
 
 ## Tools
 - Tableau
-- Data Analysis
 - Data Visualization
+- Exploratory Data Analysis
 
 ## Deliverables
-- Tableau dashboards
+- Interactive Tableau dashboards
 - Dashboard screenshots or PDF exports
+- Presentation summarizing insights and recommendations
