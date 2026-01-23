@@ -1,7 +1,7 @@
 # Data Portfolio
 
-👋 Hi, I’m Doris Wang. Nice to meet you here :)
-📊 I'm a Data-driven Product & UX Analyst  
+👋 Hi, I’m Doris Wang  
+📊 Data-driven Product & UX Analyst  
 🔗 LinkedIn: https://www.linkedin.com/in/hidoriswang  
 📧 Email: tianqiwangdw@gmail.com  
 
@@ -16,3 +16,4 @@ This repository contains selected data analysis projects.
 - **TikTok vs YouTube Performance Analysis (2025)**  
   Tableau, Data Analysis  
   → (coming soon)
+
