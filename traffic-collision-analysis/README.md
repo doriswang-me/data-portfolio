@@ -34,3 +34,7 @@ Rather than relying solely on raw collision counts, the analysis introduces a **
 - Analytical notebooks and scripts
 - Visualizations highlighting severity trends and risk factors
 
+##Data source: Publicly available California traffic collision data (2020–2025).
+Due to file size, raw data is not included in this repository.
+
+
