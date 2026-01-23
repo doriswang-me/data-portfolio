@@ -1,6 +1,6 @@
 # Data Portfolio 💻
 
-**This is Doris Wang**  
+**Hey, this is Doris Wang**  
 I'm a Data-driven Product & UX Analyst🪐
 
 🔗 [LinkedIn](https://www.linkedin.com/in/hidoriswang) · 📧 tianqiwangdw@gmail.com
