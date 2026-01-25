@@ -1,32 +1,39 @@
 # Data Portfolio 💻
 
-**Hey, this is Doris Wang**  
-I'm a Data-driven Product & UX Analyst🪐
+### 👋 Hi, I’m **Doris Wang**
+**Data-driven Product & UX Analyst** · Turning data into design decisions 🪐
 
 🔗 [LinkedIn](https://www.linkedin.com/in/hidoriswang) ·  
 📧 [Email](mailto:tianqiwangdw@gmail.com) ·  
 🎨 UX Portfolio *(in progress)* ·  
 📄 **Resume**: [View on Google Docs](https://docs.google.com/document/d/1vHyoM3gljmQT5Z6uEWMNEua24HpeAtY9/edit?usp=sharing)
 
+---
 
-## Featured Projects
+## ✨ Featured Projects
 
-### California Traffic Collision Analysis (2020–2025)📊
-**Tools:** Python (Pandas) · Data Analysis  
+### 🚦 California Traffic Collision Analysis (2020–2025)
+**Python · Pandas · Data Analysis**
 
-- Analyzed **2.46M+** traffic collision records to uncover regional and temporal patterns in crash severity  
-- Built a **severity scoring framework** to move beyond raw counts and better assess real-world crash impact  
-- Translated contributing factors (weather, speed, impairment) into actionable insights for safety and risk decisions  
+> **2.46M+ records analyzed** to uncover patterns in crash severity, risk factors, and regional trends.
 
-➡️ **View project:** [traffic-collision-analysis](./traffic-collision-analysis)
+**What I did**
+- Identified **temporal & geographic patterns** influencing crash severity  
+- Designed a **severity scoring framework** to move beyond raw collision counts  
+- Translated complex contributing factors (weather, speed, impairment) into **actionable safety insights**
+
+🔍 **View Project →** [traffic-collision-analysis](./traffic-collision-analysis)
 
 ---
 
-### TikTok vs YouTube Performance Analysis (2025)
-**Tools:** Tableau · Data Analysis  
+### 📱 TikTok vs YouTube Performance Analysis (2025)
+**Tableau · Data Visualization · Platform Analytics**
 
-- Compared engagement, growth, and content performance across two major short-form video platforms  
-- Conducted geographic, temporal, and category-level analysis using global data  
-- Built what-if growth simulations to assess performance sensitivity to audience changes  
+> A comparative analysis of **engagement, growth, and creator performance** across two global platforms.
 
-➡️ **View project:** [tiktok-youtube-tableau-analysis](./tiktok-youtube-tableau-analysis)
+**What I did**
+- Analyzed **engagement & growth trends** across regions, categories, and time  
+- Visualized platform differences using interactive Tableau dashboards  
+- Built **what-if growth simulations** to test sensitivity to audience changes  
+
+📊 **View Project →** [tiktok-youtube-tableau-analysis](./tiktok-youtube-tableau-analysis)
