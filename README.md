@@ -3,9 +3,11 @@
 **Hey, this is Doris Wang**  
 I'm a Data-driven Product & UX Analyst🪐
 
-🔗 [LinkedIn](https://www.linkedin.com/in/hidoriswang) · 📧 tianqiwangdw@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/hidoriswang) ·  
+📧 [Email](mailto:tianqiwangdw@gmail.com) ·  
+🎨 UX Portfolio *(in progress)* ·  
+📄 Resume
 
----
 
 ## Featured Projects
 
