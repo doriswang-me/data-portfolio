@@ -5,7 +5,7 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/hidoriswang) ·  
 📧 [Email](mailto:tianqiwangdw@gmail.com) ·  
-🎨 **UX Portfolio *(in progress)* ·  (https://www.doriswang.me)· 
+🎨 UX Portfolio *(in progress)* ·  (https://www.doriswang.me)· 
 📄 **Resume**: [View on Google Docs](https://docs.google.com/document/d/1vHyoM3gljmQT5Z6uEWMNEua24HpeAtY9/edit?usp=sharing)
 
 ---
