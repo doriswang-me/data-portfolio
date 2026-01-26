@@ -43,7 +43,7 @@ This presentation summarizes the analysis workflow, key findings, and insights f
 
 
 ## Data source💻
-Publicly available California traffic collision data (2020–2025).
+Publicly available California traffic collision data [CHP California (2020–2025)].
 Due to file size, raw data is not included in this repository.
 
 
