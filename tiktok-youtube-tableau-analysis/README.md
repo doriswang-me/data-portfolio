@@ -52,8 +52,6 @@ Using global engagement, growth, and content data, the analysis explores how pla
 - Exploratory Data Analysis
 
 ## Deliverables✨
-
-- Tableau workbook (.twbx) for interactive analysis
-- PDF summary of key findings
-- Storyboard connecting insights into a cohesive narrative
-
+- 🧾 **Storyboard (PDF):** [storyboard.pdf](./storyboard.pdf)
+- 📄 **Report / Summary (PDF):** [tiktok-youtube-performance-analysis.pdf](./tiktok-youtube-performance-analysis.pdf)
+- 📊 **Interactive Tableau Workbook (.twbx):** [tiktok_youtube_perfermance_analysis.twbx](./tiktok_youtube_perfermance_analysis.twbx)
