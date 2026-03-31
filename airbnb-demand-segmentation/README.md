@@ -97,3 +97,7 @@ While segmentation provides valuable insights into market structure, it does not
 
 ## 📂 Project Structure
 
+➡️ **View presentation:**  
+
+
+➡️ **View Report:**  
