@@ -12,6 +12,20 @@
 
 ## ✨ Featured Projects
 
+### 🏡 Airbnb Market Segmentation & Demand Prediction
+
+**Python · Pandas · Machine Learning**
+
+> 81K+ listings analyzed to uncover patterns in demand, pricing, and market segmentation.
+
+**What I did**
+- Identified demand drivers across different Airbnb markets
+- Designed a clustering-based segmentation framework (K-Means)
+- Translated ML results into actionable business insights
+
+🔍 View Project → `airbnb-demand-segmentation`
+
+
 ### 🚦 California Traffic Collision Analysis (2020–2025)
 **Python · Pandas · Data Analysis**
 
