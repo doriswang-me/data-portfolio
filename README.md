@@ -25,6 +25,7 @@
 
 🔍 View Project → `airbnb-demand-segmentation`
 
+---
 
 ### 🚦 California Traffic Collision Analysis (2020–2025)
 **Python · Pandas · Data Analysis**
