@@ -23,7 +23,7 @@
 - Designed a clustering-based segmentation framework (K-Means)
 - Translated ML results into actionable business insights
 
-🔍 View Project → `airbnb-demand-segmentation`
+🔍  View Project → [airbnb-demand-segmentation](./airbnb-demand-segmentation)
 
 ---
 
