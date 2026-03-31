@@ -1,6 +1,6 @@
-# 🏡 Airbnb Market Segmentation & Demand Prediction (California)
+# 🏡 California Airbnb Market Segmentation & Demand Prediction 
 
-**Python · Pandas · Scikit-learn · XGBoost · Clustering**
+**Python · Machine Learning · Scikit-learn · XGBoost · Clustering**
 
 ---
 
@@ -95,9 +95,11 @@ While segmentation provides valuable insights into market structure, it does not
 
 ---
 
-## 📂 Project Structure
-
-➡️ **View presentation:**  
+## 📂 Project Files
 
 
-➡️ **View Report:**  
+- [View Presentation](./ML%20Final%20Presentation-2.pdf)
+- [View Report](./ML%20Final%20Project%20Report%20Team%2015%20.pdf)
+- [View Code](./ML%20Project%20Final_Group%2015.ipynb)
+
+
